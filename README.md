@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Junior Front-End Developer</b> <br>
-  <i>Con la testa piena di idee e la voglia di farle diventare realtà, riga dopo riga.</i>
+  <i>Con la testa piena di idee e la voglia di farle diventare realtà.</i>
 </p>
 
 ---
