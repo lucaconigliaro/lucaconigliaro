@@ -55,6 +55,29 @@ Mi sto formando come <b>sviluppatore web</b> con un focus forte sul <b>frontend<
 
 ---
 
+### 💻 Progetto in evidenza
+
+#### 🎮 [Games Hub](https://games-hub-rho.vercel.app/)
+> SPA in React + TypeScript per consultare, filtrare, confrontare e salvare giochi preferiti.
+
+<p>
+Una Single Page Application sviluppata interamente in <b>React</b> con <b>TypeScript</b> e <b>TailwindCSS</b>, progettata per offrire un'esperienza utente completa e reattiva.
+</p>
+
+**Funzionalità principali:**
+- Ricerca, filtro e ordinamento dei giochi
+- Visualizzazione dettagliata per ogni titolo
+- Comparatore dinamico tra due giochi selezionati
+- Sistema di preferiti globale con persistenza in localStorage
+- Carosello in homepage con i giochi più votati
+- Suggerimenti automatici per giochi simili nella pagina di dettaglio
+- Creazione ed eliminazione di giochi (CRUD parziale)
+
+<p>
+👉 <a href="https://games-hub-rho.vercel.app/" target="_blank"><b>Live Demo</b></a> | <a href="https://github.com/lucaconigliaro/games-hub" target="_blank"><b>GitHub Repo</b></a>
+</p>
+
+
 ## 🤝 Contattami
 
 <p>
