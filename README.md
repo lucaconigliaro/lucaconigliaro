@@ -77,6 +77,8 @@ Una Single Page Application sviluppata interamente in <b>React</b> con <b>TypeSc
 👉 <a href="https://games-hub-rho.vercel.app/" target="_blank"><b>Live Demo</b></a> | <a href="https://github.com/lucaconigliaro/games-hub" target="_blank"><b>GitHub Repo</b></a>
 </p>
 
+![home](https://github.com/lucaconigliaro/lucaconigliaro/blob/main/Screenshot%202025-06-12%20alle%2021.56.38.png)
+
 
 ## 🤝 Contattami
 
