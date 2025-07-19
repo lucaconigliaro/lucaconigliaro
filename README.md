@@ -50,8 +50,7 @@ Mi sto formando come <b>sviluppatore web</b> con un focus forte sul <b>frontend<
 ## 🧭 Prossime tappe
 
 - Approfondire Tailwind CSS nei progetti reali
-- Passare a Next.js per routing, SSR e performance
-- Esplorare Angular per conoscere nuove prospettive
+- Esplorare PHP e Laravel per conoscere nuove prospettive
 
 ---
 
