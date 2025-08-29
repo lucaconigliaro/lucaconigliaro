@@ -4,7 +4,7 @@
 ---
 
 ## Profilo Professionale
-Sviluppatore web junior specializzato in tecnologie frontend, con focus su React e TypeScript. Esperienza nella creazione di interfacce utente moderne e responsive.
+Sviluppatore web junior specializzato in tecnologie frontend, con focus su React.
 
 ---
 
@@ -17,9 +17,9 @@ Sviluppatore web junior specializzato in tecnologie frontend, con focus su React
 - Bootstrap
 - TypeScript, Tailwind CSS *(livello base)*
 
-**Backend & Database:**
+**Backend & Database:** *(livello base)*
 - Node.js, Express
-- MySQL2, Supabase *(livello base)*
+- MySQL2, Supabase 
 - PHP, Laravel (in corso di studio)
 
 **Testing:**
