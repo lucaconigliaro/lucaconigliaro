@@ -1,5 +1,6 @@
 # Luca Conigliaro
-**Junior Developer**
+
+**Junior Web Developer**
 
 ---
 
