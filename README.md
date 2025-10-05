@@ -1,5 +1,5 @@
 # Luca Conigliaro
-**Junior Front-End Developer**
+**Junior Developer**
 
 ---
 
@@ -17,22 +17,25 @@ Sviluppatore web junior specializzato in tecnologie frontend, con focus su React
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL2-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 </p>
 
 **Frontend:**
-- HTML5, CSS3
-- JavaScript
-- React
-- Bootstrap
-- TypeScript, Tailwind CSS *(livello base)*
+- HTML5, CSS3  
+- JavaScript  
+- React  
+- Bootstrap  
+- TypeScript, Tailwind CSS *(livello base)*  
 
-**Backend & Database *(livello base)*:** 
-- Node.js, Express
-- MySQL2, Supabase 
-- PHP, Laravel (in corso di studio)
+**Backend & Database *(livello base)*:**  
+- Node.js, Express  
+- MySQL2, Supabase  
+- PHP, Laravel *(in corso di studio)*  
 
-**Testing:**
-- Jest *(livello base)*
+**Testing:**  
+- Jest *(livello base)*  
 
 ---
 
